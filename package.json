@@ -1,0 +1,19 @@
+{
+  "name": "react-dropzone-component-typings",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogosmer/react-dropzone-component-typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogosmer/react-dropzone-component-typings/issues"
+  },
+  "homepage": "https://github.com/bogosmer/react-dropzone-component-typings#readme"
+}
