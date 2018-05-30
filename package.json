@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bogosmer/react-dropzone-component-typings.git"
+    "url": "git+https://github.com/ka-ching-as/react-dropzone-component.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bogosmer/react-dropzone-component-typings/issues"
+    "url": "https://github.com/ka-ching-as/react-dropzone-component/issues"
   },
-  "homepage": "https://github.com/bogosmer/react-dropzone-component-typings#readme"
+  "homepage": "https://github.com/ka-ching-as/react-dropzone-component#readme"
 }
