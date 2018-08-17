@@ -6,6 +6,6 @@ export interface DropzoneComponentProps {
     eventHandlers?: any
 }
 
-export default class DropzoneComponent extends Component<DropzoneComponentProps, any> {
+export default class DropzoneComponent<T extends DropzoneComponentProps = any> extends Component<T, any> {
     
 }
